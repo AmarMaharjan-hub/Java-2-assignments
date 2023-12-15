@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE customer SYSTEM "customer.dtd">
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<customer>
+    <firstname>John</firstname>
+    <lastname>Smith</lastname>
+    <age>20</age>
+    <ssn>23324</ssn>
+    <address>
+        <addressline1>Apt2222</addressline1>
+        <city>Columbus</city>
+        <state>OH</state>
+        <country>USA</country>
+    </address>
+</customer>
